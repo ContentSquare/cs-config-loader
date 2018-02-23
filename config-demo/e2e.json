@@ -1,0 +1,5 @@
+{
+  "$extends": "env.json",
+  "common": "e2e",
+  "e2eAttr": "e2eAttrValue"
+}
